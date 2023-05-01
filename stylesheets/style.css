@@ -1,4 +1,15 @@
-h1{
+.first_Mini{
     text-align: center;
     color: tomato;
+}
+
+.btn-group-wrap {
+    text-align: center;
+}
+
+div.btn-group {
+    margin:  auto; 
+    text-align: center;
+    width: inherit;
+    display: inline-block;
 }
